@@ -52,6 +52,8 @@ A collection of ipynb / rmd / Qmd notebooks that contain me fooling around with 
 
 ## Textbook Links
 
+- Geospatial Analysis 
+        -[(Using R)](https://github.com/PacktPublishing/Hands-On-Geospatial-Analysis-with-R-and-QGIS)
 
 
 ## Extras
